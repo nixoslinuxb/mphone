@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Ambient Shadow -->
+    <path
+        android:pathData="M36,22 h36 c5,0 9,4 9,9 v52 c0,5 -4,9 -9,9 h-36 c-5,0 -9,-4 -9,-9 v-52 c0,-5 4,-9 9,-9 z"
+        android:fillColor="#50000000" />
+
+    <!-- Redmi Note 13 Pro+ 5G Outer Curved Glass Body -->
+    <path
+        android:pathData="M36,17 h36 c5,0 9,4 9,9 v54 c0,5 -4,9 -9,9 h-36 c-5,0 -9,-4 -9,-9 v-54 c0,-5 4,-9 9,-9 z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="27"
+                android:startY="17"
+                android:endX="81"
+                android:endY="89"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFFFFFFF" />
+                <item android:offset="0.4" android:color="#FFDDD6FE" />
+                <item android:offset="1.0" android:color="#FFA78BFA" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Metallic Volume & Power Side Buttons (Right Edge) -->
+    <path
+        android:pathData="M81,36 h1.5 c0.8,0 1.5,0.7 1.5,1.5 v6 c0,0.8 -0.7,1.5 -1.5,1.5 h-1.5 z"
+        android:fillColor="#FF7C3AED" />
+    <path
+        android:pathData="M81,48 h1.5 c0.8,0 1.5,0.7 1.5,1.5 v10 c0,0.8 -0.7,1.5 -1.5,1.5 h-1.5 z"
+        android:fillColor="#FF7C3AED" />
+
+    <!-- Redmi Note 13 Pro+ 3D Curved OLED Display Screen -->
+    <path
+        android:pathData="M38,20 h32 c3.3,0 6,2.7 6,6 v48 c0,3.3 -2.7,6 -6,6 h-32 c-3.3,0 -6,-2.7 -6,-6 v-48 c0,-3.3 2.7,-6 6,-6 z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="32"
+                android:startY="20"
+                android:endX="76"
+                android:endY="80"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FF0F172A" />
+                <item android:offset="0.5" android:color="#FF1E1B4B" />
+                <item android:offset="1.0" android:color="#FF020617" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Centered Punch-Hole Selfie Camera (Redmi Note 13 Pro+ Signature) -->
+    <path
+        android:pathData="M54,23.5 a2,2 0 1,0 0.01,0 z"
+        android:fillColor="#FF020617" />
+    <path
+        android:pathData="M54,24 a1,1 0 1,0 0.01,0 z"
+        android:fillColor="#FF1E293B" />
+
+    <!-- Nice Flying Letter / Envelope Container on Screen -->
+    <path
+        android:pathData="M43,40 h22 c2.2,0 4,1.8 4,4 v14 c0,2.2 -1.8,4 -4,4 h-22 c-2.2,0 -4,-1.8 -4,-4 v-14 c0,-2.2 1.8,-4 4,-4 z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="39"
+                android:startY="40"
+                android:endX="69"
+                android:endY="62"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FF6366F1" />
+                <item android:offset="1.0" android:color="#FF8B5CF6" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Envelope Flap V-Line -->
+    <path
+        android:pathData="M39,41 L54,52 L69,41"
+        android:strokeWidth="2.2"
+        android:strokeColor="#FFFFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Glowing Heart/Stamp Badge on Envelope -->
+    <path
+        android:pathData="M54,49 c-1.2,-1.2 -3.1,-1.2 -4.3,0 c-1.2,1.2 -1.2,3.1 0,4.3 l4.3,4.3 l4.3,-4.3 c1.2,-1.2 1.2,-3.1 0,-4.3 c-1.2,-1.2 -3.1,-1.2 -4.3,0 z"
+        android:fillColor="#FFEC4899" />
+
+    <!-- Swooping Flight Motion Arc Trails -->
+    <path
+        android:pathData="M33,48 a12,12 0 0,1 10,-8"
+        android:strokeWidth="2"
+        android:strokeColor="#FF10B981"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M65,58 a12,12 0 0,0 10,-8"
+        android:strokeWidth="2"
+        android:strokeColor="#FF06B6D4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Curved Display Edge Highlights (Left & Right 3D Glass Curve) -->
+    <path
+        android:pathData="M33,26 v36"
+        android:strokeWidth="1.2"
+        android:strokeColor="#30FFFFFF"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <path
+        android:pathData="M75,26 v36"
+        android:strokeWidth="1.2"
+        android:strokeColor="#30FFFFFF"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+
+    <!-- Home Indicator Bar at Bottom of Screen -->
+    <path
+        android:pathData="M48,73 h12 c0.8,0 1.5,0.7 1.5,1.5 c0,0.8 -0.7,1.5 -1.5,1.5 h-12 c-0.8,0 -1.5,-0.7 -1.5,-1.5 c0,-0.8 0.7,-1.5 1.5,-1.5 z"
+        android:fillColor="#80FFFFFF" />
+
+</vector>
